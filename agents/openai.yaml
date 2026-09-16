@@ -1,0 +1,4 @@
+interface:
+  display_name: "ROUTE Strategy"
+  short_description: "Reframe high-value tasks before execution"
+  default_prompt: "Use ROUTE to identify the real objective, success criterion, stakeholders, strategic risks, and best first move before substantial execution."
